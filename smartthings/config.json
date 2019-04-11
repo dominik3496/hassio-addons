@@ -6,6 +6,7 @@
     "url": "https://github.com/vkorn/hassio-addons/tree/master/smartthings",
     "image": "vkorn/{arch}-smartthings",
     "startup": "before",
+    "arch": "armv7",
     "boot": "auto",
     "host_network": true,
     "options": {
